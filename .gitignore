@@ -1,0 +1,4 @@
+_local_archive/
+*.bak
+.DS_Store
+Thumbs.db
